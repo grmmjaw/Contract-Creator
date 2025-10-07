@@ -1,0 +1,23 @@
+{
+  "name": "project.noctis.002",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grmmjaw/Contract-Creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grmmjaw/Contract-Creator/issues"
+  },
+  "homepage": "https://github.com/grmmjaw/Contract-Creator#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
